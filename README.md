@@ -11,10 +11,13 @@ This project is all about that.
 
   [new twiliio account](https://www.twilio.com/try-twilio)
 
+  
+* There is some other steps too. You have to send some msg to a special phone number given by them, That you can follow them , then only you can recieve messeges.
+
 * After that you have to note down two credentials:
   * Account SID
   * Auth Token
-  
+
   ***Big tip : Don't share it with anyone*** 🤣🤣🤣
 ### Installation
 
